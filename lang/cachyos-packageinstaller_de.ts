@@ -73,7 +73,7 @@
         <location filename="../src/mainwindow.ui" line="191"/>
         <location filename="../src/mainwindow.cpp" line="1818"/>
         <source>Upgradable</source>
-        <translation>Ausbaufähig</translation>
+        <translation>Aktualisierbar</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="196"/>
@@ -99,7 +99,7 @@
     <message>
         <location filename="../src/mainwindow.ui" line="284"/>
         <source>Remove orphan packages</source>
-        <translation>Verwaiste Pakete entfernen</translation>
+        <translation>Entferne überflüssige Pakete</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="295"/>
@@ -130,7 +130,7 @@
     <message>
         <location filename="../src/mainwindow.ui" line="411"/>
         <source>Upgradable:</source>
-        <translation>Aufrüstbar:</translation>
+        <translation>Aktualisierbar:</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="441"/>
@@ -258,7 +258,7 @@
     <message>
         <location filename="../src/mainwindow.ui" line="894"/>
         <source>Respond here</source>
-        <translation>Antworten Sie hier</translation>
+        <translation>Antworten</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="950"/>
@@ -282,7 +282,7 @@
         <location filename="../src/mainwindow.cpp" line="1885"/>
         <location filename="../src/mainwindow.cpp" line="2098"/>
         <source>Install</source>
-        <translation>Installieren Sie</translation>
+        <translation>Installieren</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1015"/>
@@ -307,7 +307,7 @@
     <message>
         <location filename="../src/mainwindow.ui" line="1060"/>
         <source>Uninstall</source>
-        <translation>Deinstallieren Sie</translation>
+        <translation>Deinstallieren</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1067"/>
@@ -369,7 +369,7 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="505"/>
         <source>Please wait...</source>
-        <translation>Bitte warten Sie...</translation>
+        <translation>Bitte warten...</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="686"/>
@@ -428,7 +428,7 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="922"/>
         <source>The following packages were selected. Click Show Details for list of changes.</source>
-        <translation>Die folgenden Pakete wurden ausgewählt. Klicken Sie auf Details anzeigen, um eine Liste der Änderungen anzuzeigen.</translation>
+        <translation>Die folgenden Pakete wurden ausgewählt. Klicke auf Details anzeigen, um eine Liste der Änderungen anzuzeigen.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="947"/>
@@ -494,7 +494,7 @@
         <location filename="../src/mainwindow.cpp" line="1998"/>
         <location filename="../src/mainwindow.cpp" line="2024"/>
         <source>Problem detected while installing, please inspect the console output.</source>
-        <translation>Während der Installation wurde ein Problem festgestellt, bitte prüfen Sie die Konsolenausgabe.</translation>
+        <translation>Während der Installation wurde ein Problem festgestellt, bitte prüfe die Konsolenausgabe.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1522"/>
@@ -519,7 +519,7 @@
     <message>
         <location filename="../src/mainwindow.cpp" line="1608"/>
         <source>We encountered a problem uninstalling, please check output</source>
-        <translation>Bei der Deinstallation ist ein Problem aufgetreten, bitte überprüfen Sie die Ausgabe</translation>
+        <translation>Bei der Deinstallation ist ein Problem aufgetreten, bitte überprüfe die Ausgabe</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1620"/>
@@ -543,8 +543,7 @@
         <location filename="../src/mainwindow.cpp" line="1689"/>
         <source>Flatpak is not currently installed.
 OK to go ahead and install it?</source>
-        <translation>Flatpak ist derzeit nicht installiert.
-Ist es in Ordnung, es zu installieren?</translation>
+        <translation>Flatpak ist derzeit nicht installiert. Soll ich fortfahren und es installieren?</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1700"/>
@@ -561,7 +560,7 @@ Ist es in Ordnung, es zu installieren?</translation>
         <location filename="../src/mainwindow.cpp" line="1721"/>
         <location filename="../src/mainwindow.cpp" line="1740"/>
         <source>Flathub remote could not be added</source>
-        <translation>Flathub-Fernbedienung konnte nicht hinzugefügt werden</translation>
+        <translation>Flathub-Remote konnte nicht hinzugefügt werden.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1729"/>
@@ -571,7 +570,7 @@ Ist es in Ordnung, es zu installieren?</translation>
     <message>
         <location filename="../src/mainwindow.cpp" line="1729"/>
         <source>You might need to logout/login to see installed items in the menu</source>
-        <translation>Möglicherweise müssen Sie sich abmelden/anmelden, um die installierten Elemente im Menü zu sehen</translation>
+        <translation>Du musst dich möglicherweise ab- und wieder anmelden, um installierte Elemente im Menü zu sehen.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1883"/>
@@ -581,7 +580,7 @@ Ist es in Ordnung, es zu installieren?</translation>
     <message>
         <location filename="../src/mainwindow.cpp" line="1967"/>
         <source>Quit?</source>
-        <translation>Kündigen?</translation>
+        <translation>Beenden?</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1968"/>
@@ -602,14 +601,14 @@ Ist es in Ordnung, es zu installieren?</translation>
     <message>
         <location filename="../src/mainwindow.cpp" line="2119"/>
         <source>Problem detected during last operation, please inspect the console output.</source>
-        <translation>Während des letzten Vorgangs wurde ein Problem festgestellt, bitte prüfen Sie die Konsolenausgabe.</translation>
+        <translation>Während des letzten Vorgangs wurde ein Problem festgestellt, bitte prüfe die Konsolenausgabe.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="2126"/>
         <source>Potentially dangerous operation.
 Please make sure you check carefully the list of packages to be removed.</source>
         <translation>Potentiell gefährlicher Vorgang.
-Bitte überprüfen Sie sorgfältig die Liste der zu entfernenden Packstücke.</translation>
+Bitte überprüfe sorgfältig die Liste der zu entfernenden Packete.</translation>
     </message>
 </context>
 <context>
@@ -617,7 +616,7 @@ Bitte überprüfen Sie sorgfältig die Liste der zu entfernenden Packstücke.</t
     <message>
         <location filename="../src/remotes.cpp" line="28"/>
         <source>Manage Flatpak Remotes</source>
-        <translation>Flatpak-Fernbedienungen verwalten</translation>
+        <translation>Flatpak-Remote verwalten</translation>
     </message>
     <message>
         <location filename="../src/remotes.cpp" line="37"/>
@@ -667,7 +666,7 @@ Bitte überprüfen Sie sorgfältig die Liste der zu entfernenden Packstücke.</t
     <message>
         <location filename="../src/remotes.cpp" line="89"/>
         <source>Not removable</source>
-        <translation>Nicht abnehmbar</translation>
+        <translation>Nicht entfernbar</translation>
     </message>
     <message>
         <location filename="../src/remotes.cpp" line="89"/>
@@ -729,7 +728,7 @@ This is needed for the app to work properly</source>
     <message>
         <location filename="../src/main.cpp" line="180"/>
         <source>You seem to be logged in as root, please log out and log in as normal user to use this program.</source>
-        <translation>Sie scheinen als root angemeldet zu sein, bitte melden Sie sich ab und melden Sie sich als normaler Benutzer an, um dieses Programm zu benutzen.</translation>
+        <translation>Es scheint, als wärst du als Root eingeloggt. Bitte melde dich ab und melde dich als normaler Benutzer an, um dieses Programm zu verwenden.</translation>
     </message>
     <message>
         <location filename="../src/main.cpp" line="186"/>
@@ -739,7 +738,7 @@ This is needed for the app to work properly</source>
     <message>
         <location filename="../src/main.cpp" line="187"/>
         <source>Please run that application as root user!</source>
-        <translation>Bitte führen Sie diese Anwendung als root-Benutzer aus!</translation>
+        <translation>Bitte führe diese Anwendung als Root-Benutzer aus!</translation>
     </message>
     <message>
         <location filename="../src/main.cpp" line="195"/>
@@ -749,7 +748,7 @@ This is needed for the app to work properly</source>
     <message>
         <location filename="../src/main.cpp" line="196"/>
         <source>Another package management application (like pamac or pacman), is already running. Please close that application first</source>
-        <translation>Eine andere Paketverwaltungsanwendung (wie pamac oder pacman) wird bereits ausgeführt. Bitte schließen Sie diese Anwendung zuerst</translation>
+        <translation>Es läuft bereits eine andere Paketverwaltungsanwendung (wie Pamac oder Pacman). Bitte schließe zuerst diese Anwendung.</translation>
     </message>
 </context>
 </TS>
